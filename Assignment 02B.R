@@ -18,3 +18,4 @@ names(theDF)<-c("Popularity", "Team Strength", "Sport")
 
 variable = theDF$x
 sd(variable)
+#-5 sd(theDF$"Team Strenght")
