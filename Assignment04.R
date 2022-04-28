@@ -36,3 +36,4 @@ elected_cleaned <- elected %>%
 # Number of title usage
 titles <- data.frame(elected_cleaned %>% count(Title))
 View(titles)
+#100/100
